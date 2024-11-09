@@ -14,6 +14,11 @@ Neste explora-se formas de extrair e reconhecer entidades nomeadas, tanto utiliz
 
 - 2.2 Analise dos dados e descrição  do pipeline de desenvolvimento levando em consideração todo o processo de análise, anotação, treino até a validação do modelo. 
 
+### Guia Rápido
+ 
+Para que toda  análise seja feita observada e repetida de maneira facilitada o notebook EDA+Modelling.ipynb foi criado. 
+
+
 ### Referências
 
 [1] Freestone, Matthew, and Shubhra Kanti Karmaker Santu. "Word Embeddings Revisited: Do LLMs Offer Something New?." arXiv preprint arXiv:2402.11094 (2024).
